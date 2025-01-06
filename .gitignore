@@ -1,2 +1,8 @@
 /.obsidian
 .obsidian 
+.codegpt
+
+
+
+# Ignore Smart Environment folder
+.smart-env

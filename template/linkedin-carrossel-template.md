@@ -1,5 +1,5 @@
 ---
-theme: instagram-left
+theme: linkedin-left-carrossel
 _header: ""
 _footer: 
 footer: Marília Melo Favalesso
