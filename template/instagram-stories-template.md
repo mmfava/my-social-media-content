@@ -26,11 +26,5 @@ Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ip
 
 ![](../Excalidraw/fig1.png)
 
----
 
-## Slide 4
 
-``` python
-a=1
-print(a)
-```

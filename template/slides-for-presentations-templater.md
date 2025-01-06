@@ -1,17 +1,19 @@
 ---
-theme: instagram-left
-footer: "@mariliadados"
-paginate: true
+theme: slides-left
+header: "Presentation title"
+_header: ""
+_footer: ""
 _paginate: false
+footer: "Marília Melo Favalesso"
+paginate: true
 center: teste
 date: "2024"
 created: 2025-01-03T11:37
 updated: 2025-01-04T21:18
-marp: true
 ---
-# Instagram-slides-templater
+# Presentation title
 
-**Subtítulo**
+**Subtitulo**
 
 <small>Nome</small>
 
@@ -22,9 +24,11 @@ Lorem Ipsum Lorem Ipsum Lorem Ipsum ==Lorem Ipsum== Lorem Ipsum Lorem Ipsum Lore
 
 ---
 ## 🛠️ Desenvolvimento  
-**Informação em destaque**
 
-Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum  
+```{python}
+a = 1 
+print(a)
+```
 
 ---
 ##  Conclusão ou Insight Final  
@@ -43,34 +47,17 @@ Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ip
 Adicione aqui qualquer nota extra ou referência que queira guardar para si mesmo
 
 ---
-<img src="https://github.com/mmfava/my-social-media-content/blob/feature/template-instagram/theme/figs/bonequinho1.png?raw=true" class="bonequinho" alt="Desenho de uma cabeça de mulher piscando com o olho direito, cabelos castanhos e usando óculos.">
-
 <!-- Texto Principal -->
-<br> <br> <br> <br> 
-<div class="texto-principal">GOSTOU DO CONTEÚDO?</div>
+<div class="texto-principal">Obrigada!</div>
 
-<!-- Linha divisória -->
+<!-- Linha Divisória -->
 <div class="linha"></div>
-
-<!-- Ícones de interação -->
-<div class="icones">
-  <div>
-    <h>❤</h>
-    <p>curta</p>
-  </div>
-  <div>
-    <h>🗯</h>
-    <p>comente</p>
-  </div>
-  <div>
-    <h>➥</h>
-    <p>compartilhe</p>
-  </div>
-  <div>
-    <h>★</h>
-    <p>salve</p>
-  </div>
+<div class="contato">
+  <b>Marília Melo Favalesso - PhD, Cientista de Dados<b>
 </div>
 
-
-
+<!-- Redes Sociais -->
+<div class="redes-sociais">
+  <a href="https://www.linkedin.com/in/seuusuario" target="_blank">🔗 LinkedIn: /mariliafavalesso</a>
+  <a href="mailto:seuemail@example.com">✉️ Email: marilia.melo.favalesso@gmail.com</a>
+</div>

@@ -1,0 +1,257 @@
+/* -----------------------------------------------------------------------------
+   @theme slides-left
+----------------------------------------------------------------------------- */
+
+/* || Importações e Fonte Padrão */
+@import "default";
+/* Importa o tema padrão */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+/* Fonte Inter */
+
+/* Define a fonte global */
+:root {
+  font-family: Inter, Helvetica, Arial;
+}
+
+/* -----------------------------------------------------------------------------
+   1. CONFIGURAÇÃO GERAL DOS SLIDES
+----------------------------------------------------------------------------- */
+
+/* || Alinhamento do Último Slide */
+section.last-slide {
+  text-align: left !important;
+  /* Força o alinhamento à esquerda */
+}
+
+/* || Configuração do Background para Instagram Post */
+section {
+  background-color: transparent;
+  background-image: url('https://github.com/mmfava/my-social-media-content/blob/feature/slide-template/theme/slides-design/1.png?raw=true');
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-attachment: scroll !important;
+  width: 1920px;
+  height: 1080px;
+  aspect-ratio: 1 / 1;
+  /* Mantém a proporção 1:1 */
+  margin: 0.25 auto;
+  overflow: hidden;
+}
+
+/* || Garantir Transparência em Imagens PNG */
+img {
+  background: transparent !important;
+  /* Remove qualquer fundo aplicado */
+}
+
+/* -----------------------------------------------------------------------------
+   2. TIPOGRAFIA
+----------------------------------------------------------------------------- */
+
+/* || Títulos Amarelos */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #FFDB0C;
+  /* Cor amarela */
+  text-align: left;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+/* || Textos Brancos Gerais */
+p,
+ul,
+ol,
+li,
+footer,
+header,
+blockquote,
+span {
+  color: #FFFFFF;
+  /* Cor branca */
+  text-align: left;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+/* || Tamanho dos Títulos */
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  font-size: 3.5rem;
+}
+
+h3 {
+  font-size: 3rem;
+}
+
+/* || Tamanho do Parágrafo */
+p {
+  font-size: 1.5rem;
+}
+
+/* || Links Brancos */
+a {
+  color: #FFFFFF;
+  /* Branco */
+  text-decoration: underline;
+  /* Mantém os links sublinhados */
+}
+
+/* || Texto em Negrito */
+strong {
+  color: #FFFFFF;
+  /* Branco */
+}
+
+/* || Texto Marcado */
+mark {
+  background-color: #FFDB0C;
+  /* Fundo amarelo */
+  color: #7600dc;
+  /* Texto roxo */
+  font-weight: bold;
+  /* Negrito */
+}
+
+
+/* || Estilo para Blocos de Código */
+/* || Estilo para Blocos de Código */
+pre {
+  background-color: #ffffff;
+  /* Fundo escuro */
+  color: #000000;
+  /* Texto claro */
+  font-size: 1.1rem;
+  padding: 10px 20px;
+  /* Espaçamento interno */
+  margin: 20px 60px;
+  /* Margem superior/inferior e nas laterais */
+  border-radius: 8px;
+  /* Bordas arredondadas */
+  overflow-x: auto;
+  /* Rolagem horizontal */
+  white-space: pre-wrap;
+  /* Quebra de linha se necessário */
+  line-height: 1.5;
+  /* Espaçamento entre linhas */
+  border: 1px solid #3c3c3c;
+  /* Borda sutil */
+  max-width: calc(100% - 120px);
+  /* Limita a largura máxima ao tamanho da seção, com margens */
+  box-sizing: border-box;
+  /* Garante que padding e borda não aumentem a largura total */
+  text-align: left;
+  /* Alinhamento do texto à esquerda */
+  font-weight: bold;
+}
+
+/* Estilo para Código Inline */
+code {
+  background-color: #2d2d2d;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 2em;
+  border-radius: 1px;
+  font-size: 0.9rem;
+}
+
+/* -----------------------------------------------------------------------------
+   3. PAGINAÇÃO E ALINHAMENTOS ESPECÍFICOS
+----------------------------------------------------------------------------- */
+
+/* || Paginação Automática */
+section::after {
+  font-size: 0.75em;
+  color: #FFFFFF;
+  /* Branco */
+  content: attr(data-marpit-pagination) ' / ' attr(data-marpit-pagination-total);
+}
+
+/* || Centralizar Imagens */
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+
+/* || Texto Pequeno */
+section.tinytext>p,
+section.tinytext>ul,
+section.tinytext>blockquote {
+  font-size: 0.65em;
+  color: #FFFFFF;
+  /* Branco */
+}
+
+
+/* ----------------------------------------------------------------------------- 
+   4. SLIDE FINAL (CALL TO ACTION)
+----------------------------------------------------------------------------- */
+
+/* || Texto Principal (Obrigada!) */
+.texto-principal {
+  font-size: 2.5rem;
+  /* Maior destaque */
+  font-weight: bold;
+  text-align: center;
+  color: #FFDB0C;
+  /* Amarelo */
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+/* || Linha Divisória */
+.linha {
+  width: 50%;
+  height: 3px;
+  background-color: #FFDB0C;
+  /* Amarelo */
+  margin: 20px auto;
+}
+
+/* || Contêiner de Redes Sociais */
+.redes-sociais {
+  display: flex;
+  justify-content: center;
+  /* Centraliza os itens */
+  gap: 30px;
+  /* Espaçamento entre ícones */
+  align-items: center;
+  margin-top: 20px;
+}
+
+/* || Estilo dos Ícones de Redes Sociais */
+.redes-sociais a {
+  text-decoration: none;
+  color: #FFFFFF;
+  /* Ícones brancos */
+  font-size: 1.1rem;
+  /* Tamanho adequado */
+  transition: color 0.3s ease;
+  /* Efeito hover suave */
+}
+
+/* || Hover nos Ícones */
+.redes-sociais a:hover {
+  color: #FFDB0C;
+  /* Amarelo no hover */
+}
+
+/* || Texto de Contato */
+.contato {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+  margin-top: 30px;
+}
+
+/* -----------------------------------------------------------------------------
+   FIM DO ARQUIVO CSS
+----------------------------------------------------------------------------- */

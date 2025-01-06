@@ -1,8 +1,6 @@
 ---
 theme: instagram-left
-_header: ""
-_footer: 
-footer: Marília Melo Favalesso
+footer: "@mariliadados"
 paginate: true
 _paginate: false
 center: teste

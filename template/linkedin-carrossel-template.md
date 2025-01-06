@@ -1,10 +1,7 @@
 ---
 theme: linkedin-left-carrossel
-_header: ""
-_footer: 
 footer: Marília Melo Favalesso
 paginate: true
-_paginate: false
 center: teste
 date: "2024"
 created: 2025-01-03T11:37
