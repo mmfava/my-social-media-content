@@ -1,15 +1,17 @@
 ---
 theme: instagram-left
 _header: ""
-#header: "Header nas demais páginas"
 _footer: ""
-footer: "Marília Melo Favalesso"
-paginate: true 
+footer: Marília Melo Favalesso
+paginate: true
 _paginate: false
-center: "teste"
+center: teste
 date: "2024"
+created: 2025-01-03T11:37
+updated: 2025-01-04T21:18
+marp: True
 ---
-# Você conhece tal assunto?? 
+# Instagram-slides-templater
 
 **Subtítulo**
 
@@ -43,7 +45,7 @@ Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ip
 Adicione aqui qualquer nota extra ou referência que queira guardar para si mesmo
 
 ---
-<img src="https://github.com/mmfava/my-social-media-content/blob/main/theme/figs/bonequinho1.png?raw=true" class="bonequinho" alt="Desenho de uma cabeça de mulher piscando com o olho direito, cabelos castanhos e usando óculos.">
+<img src="https://github.com/mmfava/my-social-media-content/blob/feature/template-instagram/theme/figs/bonequinho1.png?raw=true" class="bonequinho" alt="Desenho de uma cabeça de mulher piscando com o olho direito, cabelos castanhos e usando óculos.">
 
 <!-- Texto Principal -->
 <br> <br> <br> <br> 

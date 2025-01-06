@@ -1,3 +1,8 @@
+---
+created: 2025-01-02T16:45
+updated: 2025-01-04T21:37
+---
+# plugins-obsidian
 **AI Assistance**
 
 - **AI Commander:** This plugin likely allows you to use natural language commands to control Obsidian. For example, you might tell it to "create a new note linked to this one" or "insert a template for daily notes."
