@@ -1,0 +1,36 @@
+---
+theme: instagram-left-stories
+footer: "@mariliadados"
+paginate: true
+center: teste
+created: 2025-01-04T12:50
+updated: 2025-01-04T21:08
+---
+# instagram-stories-template
+
+**Subtítulo**
+
+
+----
+## Slide 1
+
+Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum  Lorem Ipsum 
+
+----
+## Slide 2
+
+Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum  Lorem Ipsum 
+
+---
+## Slide 3
+
+![](../Excalidraw/fig1.png)
+
+---
+
+## Slide 4
+
+``` python
+a=1
+print(a)
+```
