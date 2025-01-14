@@ -13,6 +13,10 @@
   font-family: Inter, Helvetica, Arial;
 }
 
+/* || Fontawesome */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
+
+
 /* -----------------------------------------------------------------------------
    1. CONFIGURAÇÃO GERAL DOS SLIDES
 ----------------------------------------------------------------------------- */
@@ -85,7 +89,7 @@ h1 {
 }
 
 h2 {
-  font-size: 3.5rem;
+  font-size: 3.4rem;
 }
 
 h3 {
@@ -161,6 +165,10 @@ code {
   padding: 2em;
   border-radius: 1px;
   font-size: 0.9rem;
+}
+
+span.small {
+  font-size: smaller;
 }
 
 /* -----------------------------------------------------------------------------

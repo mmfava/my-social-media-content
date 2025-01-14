@@ -1,10 +1,15 @@
 ---
+title: "{{title}}"
+media: instagram
+type: stories
+tags: []
+posted: 
 theme: instagram-left-stories
 footer: "@mariliadados"
 paginate: true
 center: teste
 created: 2025-01-04T12:50
-updated: 2025-01-04T21:08
+updated: 2025-01-14T18:57
 ---
 # instagram-stories-template
 

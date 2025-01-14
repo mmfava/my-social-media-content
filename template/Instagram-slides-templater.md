@@ -1,14 +1,20 @@
 ---
+title: "{{title}}"
+media: instagram
+type: slides
+tags: 
 theme: instagram-left
+posted: 
 footer: "@mariliadados"
 paginate: true
 _paginate: false
 center: teste
 date: "2024"
 created: 2025-01-03T11:37
-updated: 2025-01-04T21:18
+updated: 2025-01-14T18:57
 marp: true
 ---
+
 # Instagram-slides-templater
 
 **Subtítulo**

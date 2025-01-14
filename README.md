@@ -1,3 +1,7 @@
+---
+created: 2025-01-02T16:29
+updated: 2025-01-14T18:26
+---
 # **Repositório de conteúdos para as redes sociais**
 
 Este repositório funciona como um **backup centralizado e organizado** de todo o conteúdo que produzo para redes sociais. Aqui você encontrará:
@@ -16,6 +20,7 @@ O conteúdo está organizado nas seguintes categorias:
 - /1-drafts        → Rascunhos e ideias em desenvolvimento
 - /2-posts         → Conteúdo finalizado e publicado
 - /4-resources  → Recursos úteis e referências
+- 
 ## 🤝 Contribuições
 
 Este é um repositório pessoal para gerenciamento de conteúdo. 
