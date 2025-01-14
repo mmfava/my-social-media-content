@@ -9,7 +9,7 @@ footer: "@mariliadados"
 paginate: true
 center: teste
 created: 2025-01-04T12:50
-updated: 2025-01-14T19:26
+updated: 2025-01-14T19:55
 ---
 # instagram-stories-template
 
