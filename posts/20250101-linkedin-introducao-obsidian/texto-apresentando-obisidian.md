@@ -7,7 +7,7 @@ media: linkedin
 type: texto
 posted: false
 created: 2025-01-10T16:43
-updated: 2025-01-14T18:58
+updated: 2025-01-14T19:19
 ---
 
 # Texto principal
@@ -20,7 +20,7 @@ O Obsidian tem me ajudado a organizar ideias, estudar e criar apresentações �
 
 Outro ponto interessante é a comunidade de desenvolvedores, que disponibiliza novos recursos quase diariamente — inclusive com IA!  
 
->  E olha que comecei a usar o app há poucas semanas pessoal (rsrs).
+Até aqui tenho gostando bastante, apesar de ainda preferir o Quarto para atividades envolvendo código e documentação (vou organizar uma postagem sobre ele 😉). 
 
 A seguir, compartilho um [pequeno carrossel que desenvolvi sobre o Obsidian utilizando a própria ferramenta](carrosel-apresentando-obsidian.md). 
 

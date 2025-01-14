@@ -10,12 +10,12 @@ footer: Marília Melo Favalesso
 paginate: true
 center: teste
 created: 2025-01-03T11:37
-updated: 2025-01-14T18:58
+updated: 2025-01-14T19:15
 marp: true
 posted: false
 ---
 
-<img src="obsidian-logo.png" style="width:120px;padding-left:50px;" /> 
+<img src="figs/obsidian-logo.png" style="width:120px;padding-left:50px;" /> 
 
 # Organize<br>os seus pensamentos com o <div class="backgroundh1">Obsidian</div>
 
