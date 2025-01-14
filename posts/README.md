@@ -1,6 +1,6 @@
 ---
 created: 2025-01-02T16:51
-updated: 2025-01-14T19:13
+updated: 2025-01-14T19:26
 ---
 
 As postagens estão organizadas por diretório. 
