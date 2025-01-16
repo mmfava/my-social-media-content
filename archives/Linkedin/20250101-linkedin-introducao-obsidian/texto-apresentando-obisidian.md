@@ -5,9 +5,11 @@ tags:
   - Ferramentas
 media: linkedin
 type: texto
-posted: false
+posted: true
 created: 2025-01-10T16:43
-updated: 2025-01-14T19:19
+updated: 2025-01-16T12:23
+date: 2025-01-14
+link: https://www.linkedin.com/posts/mariliafavalesso_apresentando-o-obsidian-activity-7285061885568159744-eds0?utm_source=share&utm_medium=member_desktop
 ---
 
 # Texto principal
@@ -33,3 +35,6 @@ Mas me diga aí: você já conhecia essa ferramenta?
 ```
 
 
+# Publicação
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7285061884276334592" height="1154" width="700" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>

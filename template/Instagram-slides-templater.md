@@ -4,15 +4,16 @@ media: instagram
 type: slides
 tags: 
 theme: instagram-left
-posted: 
 footer: "@mariliadados"
 paginate: true
 _paginate: false
 center: teste
-date: "2024"
 created: 2025-01-03T11:37
-updated: 2025-01-14T19:55
+updated: 2025-01-16T12:19
 marp: true
+posted: 
+date: ""
+link: 
 ---
 
 # Instagram-slides-templater

@@ -1,6 +1,6 @@
 ---
 created: 2025-01-02T16:45
-updated: 2025-01-04T21:37
+updated: 2025-01-16T12:31
 ---
 # plugins-obsidian
 **AI Assistance**

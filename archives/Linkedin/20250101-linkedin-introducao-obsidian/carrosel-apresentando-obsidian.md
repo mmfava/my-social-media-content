@@ -10,9 +10,11 @@ footer: Marília Melo Favalesso
 paginate: true
 center: teste
 created: 2025-01-03T11:37
-updated: 2025-01-14T19:15
+updated: 2025-01-16T12:21
 marp: true
-posted: false
+posted: true
+date: 2025-01-14
+link: https://www.linkedin.com/posts/mariliafavalesso_apresentando-o-obsidian-activity-7285061885568159744-eds0?utm_source=share&utm_medium=member_desktop
 ---
 
 <img src="figs/obsidian-logo.png" style="width:120px;padding-left:50px;" /> 
