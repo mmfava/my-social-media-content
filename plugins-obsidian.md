@@ -1,50 +1,44 @@
 ---
-created: 2025-01-02T16:45
-updated: 2025-01-16T12:31
+created: 2025-01-14T19:26
+updated: 2025-01-18T12:50
 ---
-# plugins-obsidian
-**AI Assistance**
+<!-- ShareMyPlugin begin -->
 
-- **AI Commander:** This plugin likely allows you to use natural language commands to control Obsidian. For example, you might tell it to "create a new note linked to this one" or "insert a template for daily notes."
-- **BMO:** Similar to AI Commander, BMO probably provides AI-powered assistance within Obsidian, potentially including features like text summarization, content generation, and question answering.
-- **Copilot:** This is likely an adaptation of GitHub Copilot for Obsidian. It might offer AI-powered code completion and suggestions while you're writing in Obsidian, particularly helpful if you use Obsidian for code documentation or writing scripts.
-- **Second Brasil (local llama):** This seems to be a plugin that integrates a locally-running large language model called "llama" within Obsidian. It likely allows you to use the language model's capabilities without relying on an internet connection.
-- **Local GPT:** Similar to Second Brasil, this plugin probably enables you to use a local installation of a GPT language model within Obsidian. This offers privacy and offline access to powerful AI features.
 
-**Productivity and Organization**
+|Name|Author|Version|Description|
+|----|------|-------|---|
+|[**Marp Slides**](https://obsidian.md/plugins?id=marp-slides) [⬇️](obsidian://SP-install?id=marp-slides&enable=true)|[Samuele Cozzi](https://samuele-cozzi.web.app/)|0.45.6|Create markdown-based Marp presentations in...|
+|[**Dataview**](https://obsidian.md/plugins?id=dataview) [⬇️](obsidian://SP-install?id=dataview&enable=true)|[Michael Brenan](https://github.com/blacksmithgu)|0.5.67|Complex data views for the data-obsessed.|
+|[**Advanced Tables**](https://obsidian.md/plugins?id=table-editor-obsidian) [⬇️](obsidian://SP-install?id=table-editor-obsidian&enable=true)|[Tony Grosinger](https://grosinger.net) [♡](https://github.com/sponsors/tgrosinger)/[♡](https://buymeacoffee.com/tgrosinger)/[♡](https://paypal.me/tgrosinger)|0.22.1|Improved table navigation, formatting, manipulatio...|
+|[**Templater**](https://obsidian.md/plugins?id=templater-obsidian) [⬇️](obsidian://SP-install?id=templater-obsidian&enable=true)|[SilentVoid](https://github.com/SilentVoid13)|2.9.1|Create and use templates|
+|[**Calendar**](https://obsidian.md/plugins?id=calendar) [⬇️](obsidian://SP-install?id=calendar&enable=true)|[Liam Cain](https://github.com/liamcain/)|1.5.10|Calendar view of your daily notes|
+|[**Iconize**](https://obsidian.md/plugins?id=obsidian-icon-folder) [⬇️](obsidian://SP-install?id=obsidian-icon-folder&enable=true)|[Florian Woelki](https://florianwoelki.com/)|2.14.7|Add icons to anything you desire in Obsidian,...|
+|[**Linter**](https://obsidian.md/plugins?id=obsidian-linter) [⬇️](obsidian://SP-install?id=obsidian-linter&enable=true)|[Victor Tao](https://github.com/platers)|1.28.0|Formats and styles your notes. It can be used...|
+|[**Editing Toolbar**](https://obsidian.md/plugins?id=editing-toolbar) [⬇️](obsidian://SP-install?id=editing-toolbar&enable=true)|[Cuman](https://github.com/cumany/obsidian-editing-toolbar) [♡](https://github.com/cumany#thank-you-very-much-for-your-support)|2.4.16|The Obsidian Editing Toolbar is modified from...|
+|[**Natural Language Dates**](https://obsidian.md/plugins?id=nldates-obsidian) [⬇️](obsidian://SP-install?id=nldates-obsidian&enable=true)|[Argentina Ortega Sainz](https://argentinaos.com/)|0.6.2|Create date-links based on natural language|
+|[**Paste URL into selection**](https://obsidian.md/plugins?id=url-into-selection) [⬇️](obsidian://SP-install?id=url-into-selection&enable=true)||1.7.0|Paste URL "into" selected text.|
+|[**Commander**](https://obsidian.md/plugins?id=cmdr) [⬇️](obsidian://SP-install?id=cmdr&enable=true)|[jsmorabito & phibr0](https://github.com/phibr0) [♡](https://ko-fi.com/phibr0)|0.5.2|Customize your workspace by adding commands...|
+|[**Various Complements**](https://obsidian.md/plugins?id=various-complements) [⬇️](obsidian://SP-install?id=various-complements&enable=true)|[tadashi-aikawa](https://github.com/tadashi-aikawa)|10.0.3|This plugin enables you to complete words...|
+|[**Enhancing Export**](https://obsidian.md/plugins?id=obsidian-enhancing-export) [⬇️](obsidian://SP-install?id=obsidian-enhancing-export&enable=true)|[YISH](https://github.com/mokeyish)|1.10.9|This is a enhancing export plugin for Obsidian....|
+|[**Find orphaned files and broken links**](https://obsidian.md/plugins?id=find-unlinked-files) [⬇️](obsidian://SP-install?id=find-unlinked-files&enable=true)|[Vinzent](https://github.com/Vinzent03) [♡](https://ko-fi.com/vinzent)|1.10.1|Find files that are not linked anywhere and...|
+|[**Multi-Column Markdown**](https://obsidian.md/plugins?id=multi-column-markdown) [⬇️](obsidian://SP-install?id=multi-column-markdown&enable=true)|[Cameron Robinson](https://portfolio.ckrobinson.net) [♡](https://www.buymeacoffee.com/ckrobinson)|0.9.1|This plugin adds functionality to create markdown ...|
+|[**Custom Frames**](https://obsidian.md/plugins?id=obsidian-custom-frames) [⬇️](obsidian://SP-install?id=obsidian-custom-frames&enable=true)|[Ellpeck](https://ellpeck.de)|2.4.7|A plugin that turns web apps into panes using...|
+|[**Paste image rename**](https://obsidian.md/plugins?id=obsidian-paste-image-rename) [⬇️](obsidian://SP-install?id=obsidian-paste-image-rename&enable=true)|[Reorx](https://github.com/reorx)|1.6.1|Rename pasted images and all the other attchments ...|
+|[**Smart Composer**](https://obsidian.md/plugins?id=smart-composer) [⬇️](obsidian://SP-install?id=smart-composer&enable=true)|[Heesu Suh](https://github.com/glowingjade) [♡](https://buymeacoffee.com/glowingjade)|1.0.12|AI chat with note context, smart writing assistanc...|
+|[**Consistent Attachments and Links**](https://obsidian.md/plugins?id=consistent-attachments-and-links) [⬇️](obsidian://SP-install?id=consistent-attachments-and-links&enable=true)|[Dmitry Savosh](https://github.com/dy-sh/) [♡](https://www.buymeacoffee.com/mnaoumov)|3.24.1|This plugin ensures the consistency of attachments...|
+|[**Update Time**](https://obsidian.md/plugins?id=update-time) [⬇️](obsidian://SP-install?id=update-time&enable=true)|[Sébastien Dubois](https://dsebastien.net) [♡](https://www.buymeacoffee.com/dsebastien)|1.0.13|Automatically update front matter to include...|
+|[**Dataview Serializer**](https://obsidian.md/plugins?id=dataview-serializer) [⬇️](obsidian://SP-install?id=dataview-serializer&enable=true)|[Sébastien Dubois](https://dsebastien.net) [♡](https://www.buymeacoffee.com/dsebastien)|1.5.1|Serialize Dataview queries to Markdown, and...|
+|[**vConsole**](https://obsidian.md/plugins?id=vconsole) [⬇️](obsidian://SP-install?id=vconsole&enable=true)|[Zhou Hua](https://zhouhua.site)|1.0.2|Integrate vConsole for developers to facilitate...|
+|[**Mermaid Tools**](https://obsidian.md/plugins?id=mermaid-tools) [⬇️](obsidian://SP-install?id=mermaid-tools&enable=true)|[dartungar](https://dartungar.com) [♡](https://www.paypal.com/paypalme/dartungar)|1.1.3|Improved Mermaid.js experience for Obsidian:...|
+|[**Mehrmaid**](https://obsidian.md/plugins?id=mehrmaid) [⬇️](obsidian://SP-install?id=mehrmaid&enable=true)|[huterguier](https://github.com/huterguier)|0.0.2|Enables you to put Markdown inside of Mermaid...|
+|[**Share my plugin list**](https://obsidian.md/plugins?id=share-my-plugin-list) [⬇️](obsidian://SP-install?id=share-my-plugin-list&enable=true)|[Benature](https://github.com/Benature) [☕️](https://www.buymeacoffee.com/benature)/[⚡️](https://afdian.net/a/Benature-K)/[♡](https://s2.loli.net/2024/01/30/jQ9fTSyBxvXRoOM.png)|0.3.3|Share the enabled plugins in list/table format.|
+|[**Homepage**](https://obsidian.md/plugins?id=homepage) [⬇️](obsidian://SP-install?id=homepage&enable=true)|[novov](https://novov.me) [♡](https://ko-fi.com/novov)|4.0.7|Open a specified note, canvas, or workspace...|
+|[**Emoji Magic**](https://obsidian.md/plugins?id=emoji-magic) [⬇️](obsidian://SP-install?id=emoji-magic&enable=true)|[simplgy](https://github.com/simplgy)|0.2.2|Easily add emoji, with a powerful keyword...|
+|[**Heatmap Calendar**](https://obsidian.md/plugins?id=heatmap-calendar) [⬇️](obsidian://SP-install?id=heatmap-calendar&enable=true)|[Richard Slettevoll](https://richard.sl)|0.7.1|Activity Year Overview for DataviewJS, Github...|
+|[**OZ Calendar**](https://obsidian.md/plugins?id=oz-calendar) [⬇️](obsidian://SP-install?id=oz-calendar&enable=true)|[Ozan Tellioglu](https://www.ozan.pl) [♡](https://ko-fi.com/ozante)|0.3.4|View your notes in Calendar using any YAML...|
+|[**Scholar**](https://obsidian.md/plugins?id=scholar) [⬇️](obsidian://SP-install?id=scholar&enable=true)|[Shannon Shen](https://www.szj.io)|1.4.0|Streamline Research Workflow in Obsidian|
+|[**Sheet Plus**](https://obsidian.md/plugins?id=sheet-plus) [⬇️](obsidian://SP-install?id=sheet-plus&enable=true)|[ljcoder](https://github.com/ljcoder2015) [♡](https://ko-fi.com/ljcoder)|1.8.0|Create Excel-like spreadsheets and easily...|
 
-- **Google Calendar & Calendar:** These plugins likely provide integration with your calendars, allowing you to view and manage events within Obsidian.
-- **Dataview:** This powerful plugin lets you query your Obsidian vault like a database. You can create tables, lists, and summaries of your notes based on their content, metadata, and links.
-- **Templater (pela comunidade):** Templater is a popular community plugin that allows you to create templates for your notes. This can help you standardize note formats, automate content insertion, and speed up your workflow.
-- **Projects:** This plugin likely helps you manage projects within Obsidian. You can probably define project goals, track progress, and organize related notes.
-- **Kanban:** This plugin brings Kanban boards into Obsidian, allowing you to visually organize and track tasks and ideas.
-- **Spaced Repetition:** This plugin integrates spaced repetition learning into Obsidian. You can create flashcards and review them at increasing intervals to improve your knowledge retention.
 
-**Writing and Editing**
+<!-- ShareMyPlugin end -->
 
-- **Emoji Shortcodes:** This plugin simplifies the insertion of emojis by allowing you to use shortcodes (like `:smile:`) instead of searching for emojis manually.
-- **Docxer (para converter .docx para markdown):** This plugin helps you import Word documents (.docx) into Obsidian by converting them to Markdown format.
-- **Pandoc plugin:** Pandoc is a powerful document conversion tool. This plugin likely integrates Pandoc's functionality into Obsidian, enabling you to convert notes to various formats.
-- **Past URL into selection:** This handy plugin allows you to quickly paste a URL and have it automatically formatted as a Markdown link with the selected text as the link text.
-- **Translate:** This plugin likely provides translation capabilities within Obsidian, allowing you to translate text in your notes.
-
-**Visualization and Presentation**
-
-- **Marp slides:** This plugin lets you create presentations using Marp, a Markdown-based presentation tool. You can write your slides in Obsidian and then export them as presentations.
-- **Advanced slides:** This plugin likely offers additional features or customizations for creating presentations within Obsidian.
-- **ExcaliBrain & Excalidraw:** These plugins integrate Excalidraw, a collaborative whiteboard tool, into Obsidian. You can create diagrams, flowcharts, and other visuals directly within your notes.
-
-**Interface and Navigation**
-
-- **Advanced tables:** This plugin probably enhances Obsidian's default table editing capabilities with features like sorting, filtering, and calculations.
-- **Editor Width Slider:** This plugin gives you more control over the width of the editor pane in Obsidian.
-- **Homepage:** This plugin likely allows you to customize a specific note as your homepage in Obsidian, providing a central hub for your workflow.
-- **Hover Editor:** This plugin enables you to open notes in a hover preview window, allowing you to quickly view their content without switching to a new pane.
-- **Iconize:** This plugin likely allows you to use icons to represent your notes in the file explorer and graph view, making it easier to visually identify them.
-- **Liter:** This plugin might provide enhanced reading and writing modes, potentially with features like distraction-free writing, focus mode, or different themes.
-- **Outlier:** This plugin's function is unclear without more information. It might help you identify unusual or noteworthy notes in your vault based on certain criteria.
-- **Recent Files:** This plugin provides quick access to a list of your recently opened files in Obsidian.
-- **Style settings:** This plugin likely gives you more control over the appearance and styling of your Obsidian interface.
-- **Various Complements:** This is a broad category. It likely refers to a collection of smaller plugins that add various enhancements and quality-of-life improvements to Obsidian.
-- **Git:** This plugin integrates version control with Git into Obsidian, allowing you to track changes to your notes and collaborate with others.
-- **Buttons:** This plugin likely allows you to create custom buttons within your notes to trigger actions, run commands, or insert content.
