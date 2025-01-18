@@ -7,7 +7,7 @@ tags:
   - despedida
   - colegas-trabalho
 created: 2025-01-14T18:23
-updated: 2025-01-16T12:25
+updated: 2025-01-17T14:04
 posted: 
 date: 2025-01-20T12:00
 link: 
@@ -19,7 +19,7 @@ Olá, pessoal!
 
 Hoje começo essa postagem com a famigerada frase "encerro mais um ciclo, gratidão!".
 
-E quero expressar aqui os meus mais profundos agradecimentos pelas experiências vividas e pelo acolhimento recebido durante minha jornada como Cientista de Dados no Hospital Israelita Albert Einstein.
+E quero expressar aqui os meus mais profundos agradecimentos pelas experiências vividas e pelo acolhimento recebido durante minha jornada como Cientista de Dados no Hospital Israelita Albert Einstein. 
 
 Começo agradecendo os meus queridos amigos [Wellington Araujo Nogueira](https://www.linkedin.com/feed/#), [gilberto sussumu Hida](https://www.linkedin.com/feed/#) e [Cesar Miguel](https://www.linkedin.com/feed/#). Nossa história começou há três anos com uma mensagem aqui no LinkedIn: "Olá Marília, tudo bem? Estamos com algumas vagas no seu perfil...". Vocês me proporcionaram muito mais que uma oportunidade de trabalho — ganhei três irmãos para a vida. Obrigada por todos os ensinamentos e pelo olhar humano! Vocês são minha referência!
 

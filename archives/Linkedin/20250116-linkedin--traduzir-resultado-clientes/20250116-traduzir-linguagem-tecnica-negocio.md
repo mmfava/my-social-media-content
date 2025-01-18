@@ -1,16 +1,15 @@
 ---
 created: 2025-01-14T18:23
-title: "{{title}}"
+title: "Traduzir resultados para stackholders: Importância"
 media: linkedin
 type: text
-tags: 
-posted: 
-updated: 2025-01-16T15:57
-group:
-  - linkedin
-  - post:texto
-date: ""
-link: 
+tags:
+  - StorytellingComDados
+  - IA
+posted: true
+updated: 2025-01-18T10:21
+date: 2024-01-17
+link: https://www.linkedin.com/posts/mariliafavalesso_dados-inteligaeanciaartificial-comunicaaexaeto-activity-7285968157419167744-Kl18?utm_source=share&utm_medium=member_desktop
 ---
 
 # Texto simples
