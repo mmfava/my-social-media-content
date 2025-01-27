@@ -23,7 +23,7 @@ O conteúdo está organizado nas seguintes categorias:
 
 Uso o Obsidian para criar e organizar postagens, com os plugins listados em [plugins-obsidian](plugins-obsidian.md). O fluxo de desenvolvimento está representado a seguir:
 
-```mermaid
+``` mermaid
 flowchart TD
 
     A["➕ Criar diretório em 'drafts' <br><small>(✏️ yyyyMMDD-tema-da-postagem)</small>"] --> B["➕ Adicionar uma nova nota"]
